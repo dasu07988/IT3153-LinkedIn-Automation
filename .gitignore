@@ -1,0 +1,10 @@
+target/
+reports/*
+!reports/.gitkeep
+screenshots/*
+!screenshots/.gitkeep
+.env
+*.local.properties
+.vscode/
+.idea/
+*.class
